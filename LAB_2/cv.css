@@ -1,0 +1,91 @@
+CSS CODE : 
+.profile-header {   display: flex;   align-items: center;   justify-content: center;   flex-direction: column;   margin-top: 3rem; 
+} 
+ 
+.profile-header h1 {   font-weight: 800;   color: #d58e3c;   margin: 0; 
+} 
+ 
+.profile-header img {   border-radius: 100px;   height: 200px;   width: 200px;   margin-top: 1rem; 
+} 
+ 
+
+.about {   padding: 20px;    border: 2px solid #b1e622;   border-radius: 10px;   background-color: #1F1F1F;    margin-top: 2rem; 
+} 
+ 
+.about h2 {   color: #19c35d;   margin-bottom: 1rem; 
+} 
+ 
+.about p {   color: #EFE1D1;   margin: 0; 
+} 
+ 
+.about {   padding: 20px;    border: 2px solid #EFE1D1;   border-radius: 10px;   background-color: #1F1F1F;    margin-top: 2rem; 
+} 
+ 
+.about h2 {   color: #EFE1D1;   margin-bottom: 1rem; 
+} 
+ 
+.about p {   color: #EFE1D1;   margin: 0;   font-size: 18px;    line-height: 1.6;    font-family: 'Roboto', sans-serif;  
+} 
+ 
+.contact p {   margin: 0; 
+} 
+ 
+.contact a {   color: #EFE1D1; 
+} 
+ 
+.section-box { 
+
+  padding: 20px;   border: 2px solid #EFE1D1;   border-radius: 10px;   background-color: #1F1F1F;    margin-top: 2rem; 
+} 
+ 
+.section-box h2 {   color: #EFE1D1;   margin-bottom: 1rem; 
+} 
+ 
+.section-box h3 {   color: #EFE1D1;   margin-bottom: 0.5rem; 
+} 
+ 
+.section-box p {   color: #EFE1D1;   margin: 0; 
+} 
+ 
+.skill {   padding: 20px;    border: 2px solid #EFE1D1;   border-radius: 10px;   background-color: #1F1F1F;    margin-top: 2rem; 
+} 
+ 
+.skill h2 {   color: #EFE1D1;   margin-bottom: 1rem; 
+} 
+ 
+.skill ul { 
+  list-style-type: circle;   padding-left: 70px; 
+} 
+ 
+.skill li {   color: #EFE1D1;   margin-bottom: 0.5rem; 
+} 
+ 
+.language {   padding: 20px;  
+
+  border: 2px solid #EFE1D1;   border-radius: 10px;   background-color: #1F1F1F;    margin-top: 2rem; 
+} 
+ 
+.language h2 {   color: #EFE1D1;   margin-bottom: 1rem; 
+} 
+ 
+.language ul {   list-style-type: circle;   padding-left: 70px; 
+} 
+ 
+.language li {   color: #EFE1D1;   margin-bottom: 0.5rem; 
+} 
+ 
+.profile-box {   text-align: center;   padding: 20px;   border: 2px solid #EFE1D1;   border-radius: 10px;   background-color: #1F1F1F;   margin-top: 2rem; 
+} 
+ 
+.profile-box img {   border-radius: 100px;   height: 200px;   width: 200px;   margin-top: 1rem; 
+} 
+ 
+.profile-box h1 {   font-weight: 800;   color: #EFE1D1;   margin: 0; 
+} 
+ 
+.profile-box .cv-title {   padding: 10px;   border: 2px solid #EFE1D1;   border-radius: 10px;   background-color: #1F1F1F; 
+  color: #EFE1D1;   margin-top: 1rem; 
+} 
+ 
+.skill li {   color: #EFE1D1;   margin-bottom: 0.5rem;   font-weight: bold;    font-family: 'Arial', sans-serif;  
+} 
